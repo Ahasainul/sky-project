@@ -5,8 +5,8 @@ tailwind.config = {
     colors: {
         text: '#da373d',
         bg1: '#6A55EA',
-        bg2: '#da373d',
-        bg3: '#da373d',
+        bg2: '#7968EF',
+        bg3: '#F0EDFF',
         bg4: '#da373d',
         bg5: '#da373d',
       },
