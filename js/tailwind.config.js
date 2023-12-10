@@ -7,8 +7,11 @@ tailwind.config = {
         bg1: '#6A55EA',
         bg2: '#7968EF',
         bg3: '#F0EDFF',
-        bg4: '#da373d',
-        bg5: '#da373d',
+        bg4: '#F1FBFB80',
+        bg5: '#F0EDFF',
+        bg6: '#F8A64C',
+        bg7: '#6A55EA',
+        bg8: '#6A55EA',
       },
     //  clolour 
     // width 
